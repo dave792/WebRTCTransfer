@@ -12,7 +12,7 @@ const PACKAGE_INTO_CHUNKS = {
 
 export default defineConfig({
     plugins: [react(), VitePWA(pwaOptions)],
-    base: "/",
+    base: "/web_rtc_transfer/",
     build: {
         minify: true,
         rollupOptions: {
