@@ -5,7 +5,7 @@ export default function Brief() {
     return <Box maxW={800} textAlign="center">
         <Heading fontSize="6xl">
             <LinearGradient gradient={['to left', '#17acff ,rgb(57 198 196)']}>
-                Share your files without server upload
+                Share your files online. No server needed
             </LinearGradient>
         </Heading>
         <Text fontSize="2xl" my={4} color="gray.500">
