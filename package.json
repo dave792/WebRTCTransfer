@@ -1,5 +1,6 @@
 {
   "name": "my-folder-online",
+  "homepage": "https://dave792.github.io/WebRTCTransfer/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
